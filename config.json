@@ -1,0 +1,28 @@
+{
+    "ownerNumber": ["6283897390164@s.whatsapp.net","6289687354670@s.whatsapp.net"],
+    "ownerName": "YusupKakuu",
+    "instagram" : "https://instagram.com/yusup_kakuu",
+    "gcwa" : "https://chat.whatsapp.com/C47LkeJiU9OAmGkfd7NTMr",
+    "botName": "LinuxMD",
+    "footer": "LinuxMD",
+    "sessionName": "session",
+    "fotoDonasi": "./donasih.jpg",
+    "pathimg": "./logolinux.jpg",
+    "BotKey": "C3AZVse9",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "antiDelete": false,
+    "autobio": true,
+    "anticall": true,
+    "autorespond": true,
+    "autoblok212": true,
+    "autoread": false,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
